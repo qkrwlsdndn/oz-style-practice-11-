@@ -19,7 +19,7 @@ const Section = styled.section`
 
 const theme = {
   colors: {
-    tag: "#d7fa00",
+    tag: "#d7fa0",
     gray: "rgb(160, 160, 160)",
     background: "#121212",
     text: "white",
